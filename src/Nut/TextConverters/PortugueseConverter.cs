@@ -84,7 +84,7 @@ namespace Nut.TextConverters
 
         protected override string GetUnitSeparator(CurrencyModel currency)
         {
-            return " com ";
+            return " e ";
         }
 
         private void Initialize()
